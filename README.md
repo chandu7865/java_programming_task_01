@@ -1,6 +1,6 @@
 NAME: BOOTU CHANDRSEKHAR NAIDU
 
-Company: CODETECH IT SOLUTIONS
+COMPANY: CODETECH IT SOLUTIONS
 
 ID: CT8JP1309
 
@@ -8,7 +8,8 @@ DOMAIN : JAVA PROGRAMMING
 
 DURATION : 20th JUNE-20th AUG 2024
 
-The objectives of the Java program designed as a basic calculator are as follows:
+    The objectives of the Java program designed as a basic calculator are as follows:
+    
 User Interaction: The program prompts the user to enter two numbers and choose an arithmetic operation (addition, subtraction, multiplication, or division).
 Input Handling: It reads the user's input for numbers and operation choice using the Scanner class from the standard input (System.in).
 Operation Execution: Based on the user's choice, the program performs the selected arithmetic operation:
