@@ -1,7 +1,11 @@
 NAME: BOOTU CHANDRSEKHAR NAIDU
+
 Company: CODETECH IT SOLUTIONS
+
 ID: CT8JP1309
+
 DOMAIN : JAVA PROGRAMMING
+
 DURATION : 20th JUNE-20th AUG 2024
 
 The objectives of the Java program designed as a basic calculator are as follows:
